@@ -1,0 +1,130 @@
+.my-image
+{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+body{
+  margin: 0;
+}
+body
+{
+  margin: 0;
+}
+.nav-item1
+{
+  padding-left: 900px;
+}
+.nav-item2
+{
+  padding-left: 50px;
+}
+.nav-item3
+{
+  padding-left: 50px;
+}
+.nav-item4
+{
+  padding-left: 50px;
+}
+.inner-part
+{
+  width: 800px;
+  height: 500px;
+  background-color: #c70039 !important;
+  margin-top: 200px;
+  margin-left: 550px;
+  position: relative;
+}
+.Name_input
+{
+  position: absolute;
+  top: 125px;
+  left: 210px;
+}
+.Pass_input
+{
+  position: absolute;
+  top: 200px;
+  left: 210px;
+}
+.Email_input
+{
+  position: absolute;
+  top: 280px;
+  left: 210px;
+}
+.part
+{
+  position: absolute;
+  top: 0px;
+}
+.BloodBank-pic
+{
+  margin-top: 200px;
+  margin-left: 100px;
+  width: 400px;
+  height: 400px;
+}
+.text
+{
+  margin-top: 220px;
+}
+.text2
+{
+  margin-top: 80px;
+}
+.text3
+{
+  margin-top: 80px;
+  margin-left: 100px;
+  color: red;
+}
+.main-title
+{
+  text-align: center;
+  margin-top: 100px;
+  color: Red;
+}
+.text-donation
+{
+  text-align: center;
+  margin-top: 50px;
+}
+.inner-donation
+{
+  width: 500px;
+  height: 500px;
+  background-color: pink;
+  margin-left: 710px;
+}
+.name-donation,.group-donation,.address-donation,.number-donation,.gmail-donation
+{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.input-donation
+{
+  margin-left: 57px;
+  width: 300px;
+}
+.group-input-donation
+{
+  width: 300px;
+  margin-left: 10px;
+}
+.address-input-donation
+{
+  width: 300px;
+  margin-left: 43px;
+}
+.number-input-donation
+{
+  width: 300px;
+  margin-left: 30px;
+}
+.gmail-input-donation
+{
+  width: 300px;
+  margin-left: 60px;
+}
